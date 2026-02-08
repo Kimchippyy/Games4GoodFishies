@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/Characters/Mannequins/Anims/Unarmed/Swim.uasset",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/Levels/SwimmingMechanic.umap",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/Levels/Swimming_World.umap",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/ThirdPerson/Blueprints/WaterBodyOcean_Blueprint.uasset",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/Animations/Swimming/Swimming_UE.uasset",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/Animations/Swimming/TreadingWater_UE.uasset",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/Animations/Swimming/BS_Swimming.uasset",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/Input/IA_SwimDown.uasset",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/Input/IA_SwimUp.uasset",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/Input/IMC_Swimming.uasset",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/Input/IMC_Default.uasset",
+				"E:/Games4GoodFISH/Games4GoodFishies/Reefreshing/Content/Levels/SwimmingTest.umap"
+			]
+		}
+	]
+}
